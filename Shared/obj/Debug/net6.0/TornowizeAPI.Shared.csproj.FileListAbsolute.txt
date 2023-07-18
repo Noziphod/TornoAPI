@@ -1,0 +1,12 @@
+C:\Users\stuur\Documents\TornowizeAPI\Shared\bin\Debug\net6.0\TornowizeAPI.Shared.deps.json
+C:\Users\stuur\Documents\TornowizeAPI\Shared\bin\Debug\net6.0\TornowizeAPI.Shared.dll
+C:\Users\stuur\Documents\TornowizeAPI\Shared\bin\Debug\net6.0\TornowizeAPI.Shared.pdb
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\TornowizeAPI.Shared.csproj.AssemblyReference.cache
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\TornowizeAPI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\TornowizeAPI.Shared.AssemblyInfoInputs.cache
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\TornowizeAPI.Shared.AssemblyInfo.cs
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\TornowizeAPI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\TornowizeAPI.Shared.dll
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\refint\TornowizeAPI.Shared.dll
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\TornowizeAPI.Shared.pdb
+C:\Users\stuur\Documents\TornowizeAPI\Shared\obj\Debug\net6.0\ref\TornowizeAPI.Shared.dll
