@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b5KqNtv1zExTVgssVKP/Qh12k5JSiTEQKpqFH/Hv4TdGlpTJd4xMg9eDWn800Jtm+xaShhkqMNNVmh1S/9Dqvg==",
+  "dgSpecHash": "vrONVFrRg08G8vvVNRko5xv50Zw64j3lNypsuXx7rjVmMlbwbzcj0vVtMq0l1Sc6Ty++bNeiTReKGMOzgPH6lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Client\\TornowizeAPI.Client.csproj",
+  "projectFilePath": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Client\\TornowizeAPI.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stuur\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\stuur\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.16\\microsoft.aspnetcore.authorization.6.0.16.nupkg.sha512",

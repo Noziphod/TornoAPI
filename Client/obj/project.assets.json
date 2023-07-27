@@ -3920,11 +3920,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Client\\TornowizeAPI.Client.csproj",
+      "projectUniqueName": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Client\\TornowizeAPI.Client.csproj",
       "projectName": "TornowizeAPI.Client",
-      "projectPath": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Client\\TornowizeAPI.Client.csproj",
+      "projectPath": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Client\\TornowizeAPI.Client.csproj",
       "packagesPath": "C:\\Users\\stuur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Client\\obj\\",
+      "outputPath": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stuur\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3939,8 +3939,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj": {
-              "projectPath": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj"
+            "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj": {
+              "projectPath": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj"
             }
           }
         }

@@ -219,15 +219,15 @@
       "mscorlib.dll": "sha256-C3gpWQMELcHYfrHU\/1agQUvWTtSNs9Ul2suMxcKFnIc=",
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
-      "TornowizeAPI.Shared.dll": "sha256-3Hf29y3FzCn5DUDDJj3ySDBlACy76QwBoXSlBbSp4+k=",
-      "TornowizeAPI.Client.dll": "sha256-EnbL0QL7OXBGL3uWL0H\/A3EId9HIek7myMfuAeYBnHs="
+      "TornowizeAPI.Shared.dll": "sha256-lA1mkOLW44OQcIsIbOsICb1Er24lOSrTsRLhGsRLmiE=",
+      "TornowizeAPI.Client.dll": "sha256-IiX76f7+po3VnL+02eFSBxEvvgDT2MPnorTb6hnssGU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "TornowizeAPI.Shared.pdb": "sha256-5eo2XplqHkAg\/M5psf3g\/1yrCSyMpknJdKXHT\/dLnAY=",
-      "TornowizeAPI.Client.pdb": "sha256-+zrHPM3j83wClcawFHGVwHxrnJur44Ldj3bmRL4IKdw="
+      "TornowizeAPI.Shared.pdb": "sha256-RWcCwlmPPU2plJ3FYPfHOA0cdpk0dI3OV8pPKKPMvrU=",
+      "TornowizeAPI.Client.pdb": "sha256-PAzVAhpL9kfpRc7Xy4WbR\/Z68bgVgFauSJw3Fs4hKfw="
     },
     "runtime": {
       "dotnet.6.0.16.llceohuysd.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6W8kzc/LgfJrtrCgVfTrEyEf8Nx0tNt9qN0zp7dhODapNMbYXu7Z1JVDnoLpAi9bUUflq0C0AvuuT70H7L7Tw==",
+  "dgSpecHash": "tv8/zTwRbahsh9xxrK1aSyjWjp4eRt91ZWfvayR15Gmg2l8DcQg+k/0HYs/MLcJSCNFOgJkWhx/N1tcMPr3sSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj",
+  "projectFilePath": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

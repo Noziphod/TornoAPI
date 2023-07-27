@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj",
       "projectName": "TornowizeAPI.Shared",
-      "projectPath": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj",
+      "projectPath": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Shared\\TornowizeAPI.Shared.csproj",
       "packagesPath": "C:\\Users\\stuur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stuur\\Documents\\TornowizeAPI\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stuur\\AppData\\Roaming\\NuGet\\NuGet.Config"
