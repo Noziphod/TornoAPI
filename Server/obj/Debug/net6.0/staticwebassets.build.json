@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xh41OntE/a3qsCg9LqqzTJcpBaK+SBcQT2/o7+GmGA8=",
+  "Hash": "yemWVhZohYIsMcWRagOSBCKKZiIEtINNGd6aB+h6XwE=",
   "Source": "TornowizeAPI.Server",
   "BasePath": "_content/TornowizeAPI.Server",
   "Mode": "Default",
@@ -7915,6 +7915,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Client\\wwwroot\\images\\Torno Logo.jpg",
+      "SourceId": "TornowizeAPI.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/Torno Logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Torno Logo.jpg"
     },
     {
       "Identity": "C:\\Users\\stuur\\Documents\\TornoAPI\\TornowizeAPI\\Client\\wwwroot\\index.html",
